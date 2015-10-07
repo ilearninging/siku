@@ -1,3 +1,2 @@
 <h4>《子部·庄子》目录</h4>
-<br><li style="width:47%">
-◇ <a href="index.xxi?id=6072">杂篇  天下第三十三</a>
+<br>

@@ -1,3 +1,2 @@
 <h4>《史部·宋史》目录</h4>
-<br><li style="width:47%">
-◇ <a href="index.xxi?id=3912">卷四百九十六  列传第二百五十五</a>
+<br>

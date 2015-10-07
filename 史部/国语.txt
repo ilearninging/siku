@@ -1,3 +1,2 @@
 <h4>《史部·国语》目录</h4>
-<br><li style="width:47%">
-◇ <a href="index.xxi?id=968">卷二十一  越语下</a>
+<br>

@@ -1,3 +1,2 @@
 <h4>《史部·晋书》目录</h4>
-<br><li style="width:47%">
-◇ <a href="index.xxi?id=1488">卷一百三十  载记第三十</a>
+<br>

@@ -1,3 +1,2 @@
 <h4>《史部·元史》目录</h4>
-<br><li style="width:47%">
-◇ <a href="index.xxi?id=4821">纂修元史凡例</a>
+<br>

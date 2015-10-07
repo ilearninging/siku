@@ -7,3 +7,4 @@ curl.txt
 id.txt
 html.txt
 *.html
+._*

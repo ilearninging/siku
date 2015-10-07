@@ -1,3 +1,2 @@
 <h4>《子部·黄帝内经素问》目录</h4>
-<br><li style="width:47%">
-◇ <a href="index.xxi?id=5306">附：黄帝内经素问遗篇</a>
+<br>
