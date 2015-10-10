@@ -1,4 +1,9 @@
 *swp
+watch.sh
+*.swn
+*.swm
+book.txt
+others_curl.txt
 *sh
 *swo
 all.html
